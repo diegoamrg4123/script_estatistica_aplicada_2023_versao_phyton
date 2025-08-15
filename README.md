@@ -1,0 +1,1 @@
+# script_estatistica_aplicada_2023_versao_phyton
